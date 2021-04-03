@@ -24,19 +24,14 @@ And getting to inbox zero is another small window, but this one less physical an
 
 How can we live a large life while living and working through small windows?
 
-* The internet is the largest enabler here. Through the internet, I can live a larger life by:
+The internet is the largest enabler here. Through the internet, I can live a larger life by:
 
-  Visiting new places by watching videos on Youtube (or even using street view on Google Maps)
-
-  Discovering how other’s have lived by reading bios on Wikipedia
-
-  Understanding how others view life by visiting subreddits on various topics (current favourites: )
-
-  Keeping up with friends and family through messages, email and video calls
-
-  Exploring my own ways of thinking and sharing them publicly for others to read and comment on using article like this
-
-  Learning new skills through tutorials, guides,videos and seeing how others clear  - I’m currently learning to play the trumpet, manly through watching YouTube videos
+* Visiting new places by watching videos on Youtube (or even using street view on Google Maps)
+* Discovering how other’s have lived by reading bios on Wikipedia
+* Understanding how others view life by visiting subreddits on various topics (current favourites: r/casualuk, r/personalfinanceuk)
+* Keeping up with friends and family through messages, email and video calls
+* Exploring my own ways of thinking and sharing them publicly for others to read and comment on using article like this
+* Learning new skills through tutorials, guides,videos and seeing how others clear - I’m currently learning to play the trumpet, manly through watching YouTube videos
 
 The common thread throughout these examples is that they enable us to live life outside of our small windows.
 
