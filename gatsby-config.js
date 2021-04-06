@@ -61,4 +61,12 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
   ],
+  
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+    path: `${__dirname}/_data/blog`,
+    name: `uploads`,
+    },
+  },
 }
