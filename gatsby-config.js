@@ -16,6 +16,11 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/_data/blog`,
+        name: `uploads`,
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [{
@@ -61,12 +66,4 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
   ],
-  
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-    path: `${__dirname}/_data/blog`,
-    name: `uploads`,
-    },
-  },
 }
